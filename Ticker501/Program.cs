@@ -10,6 +10,8 @@ namespace Ticker501
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
